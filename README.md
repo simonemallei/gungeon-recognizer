@@ -6,5 +6,5 @@ Directories:
 
 
 Here I'll upload:
-- The Android application source code
+- The Android application source code.
 
