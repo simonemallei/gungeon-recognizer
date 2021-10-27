@@ -6,5 +6,5 @@ Directories:
 
 
 Here I'll upload:
-- The Python scripts I've written in order to create the recognition model and the dataset.
+- The Android application source code
 
