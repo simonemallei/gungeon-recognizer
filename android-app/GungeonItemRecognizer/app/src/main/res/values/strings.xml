@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Gungeon Recognizer</string>
+    <string name="item_title">Item</string>
+    <string name="tab_text_1">Camera</string>
+    <string name="tab_text_2">Items</string>
+    <string name="tab_text_3">Search</string>
+    <string name="search_text">Search…</string>
+    <string name="menu_rate">Rate this app!</string>
+    <string name="menu_apps">See other apps!</string>
+    <string name="menu_github">GitHub repo!</string>
+    <string name="menu_privacy_policy">Privacy policy!</string>
+    <string name="menu_guide">Guide!</string>
+    <string name="take_photo">Take the photo!</string>
+    <string name="new_photo">Take another photo!</string>
+    <string name="point_camera">Point to the item using your camera</string>
+    <string name="square">Square size:</string>
+    <string name="exposure">Exposure:</string>
+    <string name="item_name">Name: </string>
+    <string name="item_quote">Quote: </string>
+    <string name="item_quality">Quality: </string>
+    <string name="item_id">ID: </string>
+    <string name="item_description">Description: </string>
+    <string name="item_type">Item Type: </string>
+    <string name="item_credits">Data taken from Fandom Wiki\'s page: </string>
+    <string name="synergy_credits">Synergy data taken from Fandom Wiki\'s page: </string>
+    <string name="wiki_guns">https://enterthegungeon.fandom.com/wiki/Guns</string>
+    <string name="wiki_items">https://enterthegungeon.fandom.com/wiki/Items</string>
+    <string name="wiki_synergies">https://enterthegungeon.fandom.com/wiki/Synergies</string>
+    <string name="item_link">More infos in Fandom Wiki: </string>
+    <string name="item_dps">DPS: </string>
+    <string name="item_mag_size">Mag Size: </string>
+    <string name="item_ammo">Ammo: </string>
+    <string name="item_damage">Damage: </string>
+    <string name="item_fire_rate">Fire Rate: </string>
+    <string name="item_reload">Reload: </string>
+    <string name="item_shot_speed">Shot Speed: </string>
+    <string name="item_range">Range: </string>
+    <string name="item_force">Force: </string>
+    <string name="item_spread">Spread: </string>
+    <string name="permission_msg">This application uses a lens-facing back camera in order to permit the user to point to the item and hence recognize the items from the game.\n\nIt does not use in any other way the images obtained through the camera.</string>
+    <string name="rate_link">market://details?id=com.simonemallei.gungeonrecognizer</string>
+    <string name="apps_link">https://play.google.com/store/apps/developer?id=Simone+Mallei</string>
+    <string name="github_link">https://github.com/simonemallei/gungeon-recognizer</string>
+    <string name="privacy_policy_link">https://simonemallei.github.io/gungeon_recognizer_privacy_policy.pdf</string>
+    <string name="guide_msg">Here\'s a brief guide in order to use the recognizer correctly:\n\n1. The upper progress bar is used to modify the green square\'s size.\n\n2. You can use the second progress bar to zoom in or zoom out.\n\n3. Once you have centered the item in the green square, click on \"Take the photo!\", hence the app will give you the model\'s prediction (10 items).\n\n4. Clicking on an item, you\'ll have its info. Otherwise you can take another photo clicking again on \"Take the photo!\".</string>
+    <string name="item_synergy_name">Synergy name: </string>
+    <string name="item_synergy_description">Synergy Description: </string>
+    <string name="item_synergy_all">Necessary: </string>
+    <string name="item_synergy_ootf">One of the following: </string>
+    <string name="item_synergy_ootf_2">One of the following: </string>
+    <string name="item_synergy_totf">Two of the following: </string>
+
+</resources>
